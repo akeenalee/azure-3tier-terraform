@@ -1,3 +1,4 @@
+![Terraform CI/CD](https://github.com/akeenalee/azure-3tier-terraform/actions/workflows/terraform.yml/badge.svg)
 # Azure 3-Tier Infrastructure — Terraform IaC
 
 ## Architecture
